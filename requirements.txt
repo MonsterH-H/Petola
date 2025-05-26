@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+pandas
+matplotlib
+seaborn
+joblib
+pytest
+python-dotenv
+loguru
+shap
+plotly
+statsmodels
