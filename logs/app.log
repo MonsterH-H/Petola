@@ -13,3 +13,5 @@
 2025-05-27 00:10:22,524 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-05-27 00:10:22,548 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-05-27 00:11:54,380 - utils.helpers - INFO - Prédiction sauvegardée dans C:\Datasets\Petrol\ia_petrole\data\prediction.csv
+2025-05-27 00:26:51,064 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-27 00:26:51,107 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

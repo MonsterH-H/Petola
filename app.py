@@ -186,7 +186,7 @@ class OilProductionApp:
         """Affiche la page d'accueil de l'application."""
         st.markdown("""
         <div style='text-align: center; margin-bottom: 2rem;'>
-            <h1 style='color: #1a365d;'>🛢️ Système d'IA pour l'Optimisation de la Production Pétrolière</h1>
+            <h1 style='color: #1a365d;'>IA pour l'Optimisation de la Production Pétrolière</h1>
             <p style='font-size: 1.2rem; color: #4a5568;'>
                 Optimisez votre production pétrolière grâce à la puissance de l'intelligence artificielle
             </p>
